@@ -1,0 +1,8 @@
+se (acordar){
+    abrir-olho();
+    desligar-alarme();
+    pegar-itens-banho("toalha", "calca", "blusa", "cueca");
+    banhar();
+    pegar-itens-curso("bolsa", "chaves", "cartão")
+    sair();
+}
